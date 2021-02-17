@@ -4,7 +4,8 @@
   "description": "test jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "saul",
   "license": "MIT",
